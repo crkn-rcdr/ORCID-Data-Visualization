@@ -153,6 +153,7 @@ anchor_country<-"enter your institution's country"
 
 # define GeoNames username and use the institution's location information for geocoding.
 # these variables will be used to derive latitude and longitude.
+# ensure free web services are enabled for your account, go here to enable [(https://www.geonames.org/manageaccount)]
 options(geonamesUsername = "PASTE GEONAMES USERNAME HERE")
 home_city <- anchor_city
 home_country <- anchor_country

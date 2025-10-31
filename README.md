@@ -27,6 +27,8 @@ Before you get started, you will need to gather the following information for yo
 In addition, you will need to set up a GeoNames account to retrieve geocoordinates for each organization:
 * Create a GeoNames[(https://www.geonames.org/login)] account, if you don't already have one
 * Keep your username handy for configuring the script later
+* Make sure to enable free web services, which can be done at this link [(https://www.geonames.org/manageaccount)]
+
 
 For help retrieving any of this information, contact ORCID-CA@crkn.ca.
 
